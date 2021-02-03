@@ -1,10 +1,17 @@
 # GTR_Framework
 OpenGL C++ Framework used for the Realistic Realtime Rendering course at Universitat Pompeu Fabra.
 It imports GLTF and PNGs.
- 
-****************************************************************
-FINAL PROJECT FOR "ELECTRONIC VIDEOGAMES" SUBJECT
 
+**----- FINAL PROJECT FOR "ELECTRONIC VIDEOGAMES" SUBJECT -----*
+
+*************************** WARNING ****************************
+ The game has a critical bug. Neither the teacher and I found the source of the problem
+ at the moment that causes the game to start with a black screen, but at the same time,
+ it sometimes sometimes the game starts perfectly without doing nothing different. 
+ Just reload the game till it loads fine. I'll work on that bug in the future.
+*****************************************************************
+ 
+*****************************************************************
 Arnau Ruiz
 Email: arnau.ruiz01@estudiant.upf.edu
 
@@ -25,7 +32,7 @@ Project contents:
 -HUD
 
 
-***************Game controls***************
+**************** Game controls ***************
 
 GAMEPAD
 -- Selection control: Y and B (XBOX), CIRCLE and TRIANGLE (playstation).
