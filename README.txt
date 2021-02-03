@@ -11,6 +11,7 @@ The game has a critical bug. Neither the teacher and I found at the moment the s
 of the problem that causes the game to start with a black screen, but then at the same 
 time, sometimes the game starts perfectly without you doing nothing different. 
 Just reload the game till it loads fine. I'll work on that bug in the future.
+You can watch a video demo in the link above.
 ///////////////////////////////////////////////////////////////////////////////////////
  
 *****************************************************************
