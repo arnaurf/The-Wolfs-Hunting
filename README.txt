@@ -4,6 +4,7 @@
 OpenGL C++ Framework used for the Realistic Realtime Rendering course at Universitat Pompeu Fabra.
 It imports GLTF and PNGs.
 
+Demo: https://www.youtube.com/watch?v=d4HWAbhWgCE
 
 ///////////////////////////////////// WARNING /////////////////////////////////////////
 The game has a critical bug. Neither the teacher and I found the source of the problem
